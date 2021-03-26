@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Catamaran&display=swap');
+body{
+	font-family: Catamaran;
+}
+
+:root{
+	--color-negro:#282d33;
+	--menu-hover:#282d33;
+	--fondo-footer:#30363d;
+	--color-footer:#898989;
+}
+header{
+	background-color: #fff;
+}
+
+#hero-slides h1{
+	font-size: 60px;
+	font-weight: bold;
+}
+
+#hero-slides h3{
+	padding-bottom: 20px;
+}
+
+#hero-slides .btn-light{
+	font-weight: bold;
+	margin-top: 20px;
+}
+
+
+#Conferences{
+	text-align: center;
+ 	padding: 50px;
+}
+
+#Conferences p{
+	text-size: center;
+	color: #898989;
+}
+
+#Conferences h4{ 
+	font-size: 35px;
+	padding-top: 20px;
+	color: #1a1a1a;
+	
+}
+
+#Conferences h3{
+	font-size: 16px;
+	color: #898989;
+	text-transform: uppercase;
+	font-weight: 600;
+	letter-spacing: 1px;
+	margin-bottom: 35px;
+}
+
+#Conferences h5{ 
+	padding-top: 20px;
+	font-weight: 700;
+	letter-spacing: 2px;
+	color: #1a1a1a;
+	text-transform: uppercase;
+	
+}
+
+#speaker p{
+	text-align: center;
+	color:  #898989;	
+	padding-bottom: 10px;
+}
+
+#speaker h6{
+	text-align: center;
+	color: #282d33;
+	padding-top: 15px;
+	
+}
+
+#speaker h4{
+	text-align: center;
+	color: #282d33;
+	padding: 20px;
+	font-size: 40px;
+}
+	
+#speaker .btn-light{
+	text-align: center;
+}	
+
+#speaker{
+	padding: 70px;
+}
+
+#Meetings h2{
+	color: white;
+	font-size: 20px;
+	font-weight: 500;
+	margin-top: 20px;
+}
+
+#Meetings p{
+	font-weight: 300;
+	color: #9B9797;
+	font-size: 12px;
+}
+
+#Meetings i{
+	font-size: 40px;
+	line-height: 70px;
+	text-align: center;
+	color: #9B9797;
+}
+
+
+#Meetings{
+	background-color: #282d33;
+	padding-top: 100px;
+	padding-right: 100px;
+	padding-left: 100px;
+	padding-bottom: 150px;
+}
+
+#Meetings h3{
+	color: white;
+	font-size: 14px;
+}
+
+#Sponsors img{
+	padding-bottom: 50px;
+}
+
+#Sponsors{
+	padding: 20px;
+	text-align: center;
+}
+
+#Sponsors h2{
+color: #282d33;
+	padding: 10px;
+	font-size: 40px;
+}
+
+#Sponsors p{
+	padding-bottom: 20px;
+}
+
+footer{
+	background-color: var(--fondo-footer);
+	color: var(--color-footer);
+	padding: 20px 0;
+	text-align: center;
+	font-size: 13px;
+}
